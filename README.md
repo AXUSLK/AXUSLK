@@ -44,22 +44,23 @@
 </p>
 <hr>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=50px></picture>
-About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"
-    width=250px></picture>
-
 <br><br>
+                                                                                       
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- :computer: I am a `Software Engineer` at @Zuse Technologies
-- :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>
+
+- :computer: I am a `Software Engineer` at @ `Zuse Technologies`
+- :technologist: I love exploring new `Tech Stacks` and building `Cool Stuff`.
+- :student: I’m currently learning `To be Extroverted`.
+- :nerd_face: Always love `learning new things`.
+- :thinking: I’m currently open for a new `Job Opportunity`, this is [MY
 RESUME](https://saradabhagya.me/img/sarada__bhagya.pdf).
 - :boom: You can visit [MY WEBSITE](https://saradabhagya.me).
-<br>
+
+<br><br>
 
 <img
   src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -205,15 +206,15 @@ RESUME](https://saradabhagya.me/img/sarada__bhagya.pdf).
 
 <p align="center">
   <img alt="Sarada Bhagya's streak"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AXUS&theme=tokyonight&hide_border=true" />
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AXUSLK&theme=tokyonight&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ### ⚡ Github Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AXUS&show_icons=true&hide_border=true&theme=tokyonight"
+  <img src="https://github-readme-stats.vercel.app/api?username=AXUSLK&show_icons=true&hide_border=true&theme=tokyonight"
     alt="Sarada Bhagya's stats" />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=AXUS&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=AXUSLK&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
     alt="Sarada Bhagya's stats" />
 </p>
