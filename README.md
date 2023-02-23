@@ -30,9 +30,6 @@
     specializing in the development of stylish, modern websites, web services, and online stores.
   </em>
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-  <b><i>Learning from FAULURE, not from SUCCESS!</i></b>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
 <hr>
 <p align="center">
