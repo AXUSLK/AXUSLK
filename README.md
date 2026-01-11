@@ -72,7 +72,7 @@ RESUME](https://saradabhagya.me/img/sarada__bhagya.pdf).
 
 - 💬 Ask me about **System Designs and Philosophy 😆**
 
-- ⚡ Fun fact **Coding is a passion and not profession.** -->
+- ⚡ Fun fact **Coding is a passion and not a profession.** -->
 
 
 <h3 align="center">Languages</h3>
